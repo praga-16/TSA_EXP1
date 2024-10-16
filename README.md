@@ -1,9 +1,8 @@
 # Ex.No: 01 PLOT A TIME SERIES DATA
-###  Date: 30-09-2024
+###  Date: 
 
 # AIM:
 To Develop a python program to Plot a time series dataplot of the gold price, I'll use the "Date" and "Price Today" columns.
-/temperature.
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
